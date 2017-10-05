@@ -9,5 +9,3 @@ def position_taken?(board, index)
     taken = false
   end
 end
-
-  
